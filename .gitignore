@@ -1,0 +1,16 @@
+# IntelliJ IDEA project files
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Build outputs
+out/
+target/
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
